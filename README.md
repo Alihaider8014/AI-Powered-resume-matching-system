@@ -15,8 +15,8 @@ Ensure the following dependencies are installed on your system:
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/resume-matcher.git
-cd resume-matcher
+git clone https://github.com/Alihaider8014/AI-Powered-resume-matching-system.git
+cd ai-powered-resume-matching-system
 ```
 
 ## Step 2: Install Dependencies
